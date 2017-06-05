@@ -1,3 +1,10 @@
+---
+title: TEI HILT Syllabus
+author: Caitlin Pollock
+layout: page
+
+---
+
 
 
 ### INTRODUCTION TO THE TEXT ENCODING INITIATIVE (TEI) FOR HISTORICAL DOCUMENTS
@@ -24,46 +31,63 @@ Participants will review examples of TEI usage in other digital humanities proje
 
 *Monday June 5th*
 
-​	Topics:
+Topics: 
 
-- ​		
+- Background,
+- Structure, 
+- Using the Guidelines		
 
+Activities: 
 
-​	Activities: 
+- Guideline Searching Exercise
 
-​		Exercise 1.1
-
-​		Exercise 1.2
-
+- TEI Header Exercise
 
 
 *Tuesday June 6th*
 
 Topics:	
 
-​	-Encoding the Header
+- Documentation
 
-​	-Describing Gender in TEI
+- Describing Gender in TEI
 
-​	-Historical Figures
+- Documenting Archives
 
-​	-Formatting
-
-​	-Correspondence
+- Formatting
 
 Activities: 
 
-​	-Exercise 2
-
-​	-Began work encoding a historical document	
+- Start Bulletin Exercise
 
 
+*Wednesday June 7th*
 
-Wednesday June 7th*
+Topics: 
 
-​	
+- Historical figures
+- Geographical places, Archives
+- Correspondence
+
+Activities: 
+
+- Archives Exercise, 
+- Correspondence Exercise, 
+- Continue work Bulletin Encoding	
 
 *Thursday June 8th*
 
-*Friday June 9th*
+Topics: 
+
+- Describing Race, 
+- Customization and Sharing, 
+- Last Questions
+
+Activities:
+
+- Continue work on Bulletin Encoding
+
+
+
+
 

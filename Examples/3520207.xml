@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods.xsd">
+<mods:identifier type="ladybird">oid2002811</mods:identifier>
+<mods:identifier type="brbl">brbl2002811</mods:identifier>
+<mods:identifier displayLabel="Barcode" type="local">39002093796671</mods:identifier>
+<mods:abstract>Bound holograph draft, revised, of a fictional or semi-fictional autobiography of a former slave. It details her experiences as a maid in several households in Virginia, Washington, D.C., and North Carolina, and her subsequent escape to the North, where she settled in New Jersey.</mods:abstract>
+<mods:abstract>The narrator also tells the stories of other slaves she knows or comes into contact with, and to some extent the histories of the families she works for, identified as the De Vincents, the Henrys, and the Wheelers. A large portion of the narrative concerns the pursuit of Mrs. De Vincent by a slave trader who discovers that she is of mixed race. Another substantial section describes the Wheeler's political fortunes in Washington.</mods:abstract>
+<mods:accessCondition>More about &lt;a href="http://beinecke.library.yale.edu/research/permissions-copyright"&gt;permissions and copyright&lt;/a&gt;</mods:accessCondition>
+<mods:genre>Autobiographical fiction.--gsafd</mods:genre>
+<mods:genre>Slave narratives.--rbgenr</mods:genre>
+<mods:note>Probable date range from Nickel, Joe, &amp;quot;Authentication Report: The Bondwoman's Narrative.&amp;quot; In The Bondwoman's Narrative / Hannah Crafts, edited by Henry Louis Gates, Jr. New York: Warner Books, 2002.</mods:note>
+<mods:note>&amp;quot;C. A. Alma [I?]&amp;quot; inscribed in pencil on verso of last l</mods:note>
+<mods:classification displayLabel="&lt;a href=&quot;http://brbl-dl.library.yale.edu/vufind/Search/Results?lookfor=type=CallNumber&amp;lookfor=JWJ%20MSS%2029&quot; target=&quot;_new&quot;&gt;JWJ MSS 29&lt;/a&gt;">JWJ MSS 29</mods:classification>
+<mods:note type="preferred citation">Beinecke Library</mods:note>
+<mods:note displayLabel="Parts scanned">Complete work digitized.</mods:note>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:accessCondition type="restriction on access">The use of this image may be subject to the copyright law of the United States (Title 17, United States Code) or to site license or other rights management terms and conditions. The person using the image is liable for any infringement.</mods:accessCondition>
+<mods:name>
+<mods:namePart>Crafts, Hannah</mods:namePart>
+</mods:name>
+<mods:titleInfo>
+<mods:title>The Bondwoman's narrative / by Hannah Crafts, a fugitive slave recently escaped from North Carolina</mods:title>
+</mods:titleInfo>
+<mods:physicalDescription>
+<mods:extent>1 v. ([2],301, [2] p.)</mods:extent>
+<mods:extent>25 x 20 cm.</mods:extent>
+<mods:internetMediaType>image/tiff</mods:internetMediaType>
+</mods:physicalDescription>
+<mods:originInfo>
+<mods:place>
+<mods:placeTerm type="text">n.p</mods:placeTerm>
+</mods:place>
+<mods:dateCreated>[ca. 1853-1861]</mods:dateCreated>
+</mods:originInfo>
+<mods:subject>
+<mods:name type="personal">Crafts, Hannah</mods:name>
+<mods:topic>African American women--Fiction</mods:topic>
+<mods:topic>Fugitive slaves--Fiction</mods:topic>
+<mods:topic>Slavery--Southern States--Fiction</mods:topic>
+<mods:topic>Women slaves--Fiction</mods:topic>
+<mods:topic>Racially mixed people--Fiction</mods:topic>
+<mods:topic>Passing (Identity)--Fiction</mods:topic>
+<mods:topic>Plantation</mods:topic>
+<mods:geographic>Virginia--Fiction</mods:geographic>
+<mods:geographic>North Carolina--Fiction</mods:geographic>
+<mods:geographic>Washington (D.C.)--Fiction</mods:geographic>
+<mods:geographicCode authority="marcgac">n-usu</mods:geographicCode>
+</mods:subject>
+<mods:location>
+<mods:holdingSimple>
+<mods:copyInformation>
+<mods:electronicLocator>6233528</mods:electronicLocator>
+</mods:copyInformation>
+</mods:holdingSimple>
+<mods:url access="object in context" displayLabel="View information and digital image(s) in the Beinecke Library’s Digital Images Online database">http://brbl-dl.library.yale.edu/legacyhandler.php?fld=bib&amp;id=2002811</mods:url>
+<mods:url access="preview">http://brbl-media.library.yale.edu/imagehandler.php?size=thumb&amp;object_id=2002811</mods:url>
+<mods:url access="raw object">http://brbl-media.library.yale.edu/imagehandler.php?size=quarter&amp;object_id=2002811</mods:url>
+</mods:location>
+</mods:mods>

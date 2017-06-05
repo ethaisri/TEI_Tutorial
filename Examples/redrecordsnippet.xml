@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <body>
+     <head>
+        CHAPTER II. LYNCH LAW STATISTICS
+     </head>
+    
+     <p>From the record published in the Chicago Tribune, January 1, 1894, the following computation of lynching statistics is made referring only to the colored victims of Lynch Law during the year 1893:</p>
+        <p>
+           ARSON.<lb />
+           Sept. 15, Paul Hill, Carrollton, <choice><abbr>Ala.;</abbr><expan>Alabama</expan></choice> Sept. 15, Paul Archer, Carrollton,<choice><abbr>Ala.;</abbr><expan>Alabama</expan></choice> Sept. 15, William Archer, Carrollton, <choice><abbr>Ala.</abbr><expan>Alabama</expan></choice> Sept. 15, Emma Fair, Carrollton, <choice><abbr>Ala.</abbr><expan>Alabama</expan></choice>
+           </p>
+           <p>
+              SUSPECTED ROBBERY.<lb />
+              Dec. 23, unknown negro, Fannin, <choice><abbr>Miss.</abbr><expan>Mississippi</expan></choice>
+           </p>
+           <p>
+              ASSAULT.<lb />
+              Dec. 25, Calvin Thomas, near Brainbridge, <choice><abbr>Ga.</abbr><expan>Georgia</expan></choice>
+           </p><p>
+              ATTEMPTED ASSAULT.<lb />
+              Dec. 28, Tillman Green, Columbia, <choice><abbr>La.</abbr><expan>Louisiana</expan></choice>
+           </p><p>
+              INCENDIARISM.<lb />
+              Jan. 26, Patrick Wells, Quincy, Fla.; Feb. 9, Frank Harrell, Dickery, <choice><abbr>Miss.</abbr><expan>Mississippi</expan></choice> Feb. 9, William Filder, Dickery, <choice><abbr>Miss.</abbr><expan>Mississippi</expan></choice>
+           </p><p>
+              ATTEMPTED RAPE.<lb />
+              Feb. 21, Richard Mays, Springville, <choice><abbr>Mo.;</abbr><expan>Missouri</expan></choice> Aug. 14, Dug
+              Hazleton, Carrollton, <choice><abbr>Ga.;</abbr><expan>Georgia</expan></choice> Sept. 1, Judge McNeil, Cadiz, <choice><abbr>Ky.;</abbr><expan>Kentucky</expan></choice> Sept. 11, Frank Smith, Newton, <choice><abbr>Miss.</abbr><expan>Mississippi</expan></choice> Sept. 16, William Jackson, Nevada, <choice><abbr>Mo.;</abbr><expan>Missouri</expan></choice> Sept. 19, Riley Gulley, Pine Apple, <choice><abbr>Ala.</abbr><expan>Alabama</expan></choice> Oct. 9, John Davis, Shorterville, <choice><abbr>Ala.</abbr><expan>Alabama</expan></choice> Nov. 8, Robert Kennedy, Spartansburg, S. C.
+           </p><p>
+              BURGLARY.<lb />
+              Feb. 16, Richard Forman, Granada, <choice><abbr>Miss.</abbr><expan>Mississippi</expan></choice>
+           </p><p>
+              WIFE BEATING.<lb />
+              Oct. 14, David Jackson, Covington, <choice><abbr>La.</abbr><expan>Louisiana</expan></choice>.
+           </p><p>
+              ATTEMPTED MURDER.<lb />
+              Sept. 21, Thomas Smith, Roanoke, <choice><abbr>Va.</abbr><expan>Virginia</expan></choice>
+           </p><p>
+              ATTEMPTED ROBBERY.<lb />
+              Dec. 12, four unknown negroes, near Selma, <choice><abbr>Ala.;</abbr><expan>Alabama</expan></choice>
+           </p>     
+     </body>
+  </text>
+</TEI>
