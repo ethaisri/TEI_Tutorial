@@ -12,7 +12,7 @@
                <resp>Corrections made to plain text</resp>
                <name xml:id="CMJP">Caitlin Pollock, Digital Humanities Librarian</name> <!--if you make any corrections to the OCR add your name below using the correct tags-->
                <name xml:id="JJ">Jennifer James</name>
-            </respStmt>
+            </respStmt>fff
             <respStmt>
                <resp>TEI Markup done by</resp>
                <name ref="#JJ">Jennifer James</name> <!-- Put your initials and name here -->
@@ -47,9 +47,8 @@
                      <publisher>
                         New England Magazine Co
                      </publisher>
-                     <biblScope>pp. 647-657</biblScope>
-                     <biblScope unit="page" from="647" to="657"/>
-                     <biblScope unit="volume">11</biblScope>
+                     <biblScope unit="page" from="647" to="657">pp. 647-657</biblScope>
+                     <biblScope unit="volume" n="11">11</biblScope>
                      <biblScope unit="issue">5</biblScope>
                      <date when="1892-01">
                         January 1892
@@ -58,7 +57,7 @@
                </monogr>
             </biblStruct>
             <bibl>
-               This publication was digitized by <orgName xml:id="CUL">Cornell University Library</orgName> and is part of their Making America Collection
+               This publication was digitized by <orgName xml:id="CUL">Cornell University Library</orgName> on is part of their Making America Collection
                <ptr target="http://digital.library.cornell.edu/m/moa/"/>
             </bibl>
          </sourceDesc>
